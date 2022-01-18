@@ -1,0 +1,8 @@
+.primary-checkbox input:checked+label {background:url(https://putupiringbonda.github.io/img/elements/primary-check.png) no-repeat center center/cover;border:none}
+.confirm-checkbox input:checked+label {background:url(https://putupiringbonda.github.io/img/elements/success-check.png) no-repeat center center/cover;border:none}
+.disabled-checkbox input:checked+label {background:url(https://putupiringbonda.github.io/img/elements/disabled-check.png) no-repeat center center/cover;border:none}
+.primary-radio input:checked+label {background:url(https://putupiringbonda.github.io/img/elements/primary-radio.png) no-repeat center center/cover;border:none}
+.confirm-radio input:checked+label {background:url(https://putupiringbonda.github.io/img/elements/success-radio.png) no-repeat center center/cover;border:none}
+.disabled-radio input:checked+label {background:url(https://putupiringbonda.github.io/img/elements/disabled-radio.png) no-repeat center center/cover;border:none}
+.banner-area{background:url(https://putupiringbonda.github.io/img/header-bg.jpg) right;background-size:cover}
+.video-area{background:url(https://putupiringbonda.github.io/img/video-bg.jpg) center;background-size:cover;padding:200px 0px;text-align:center}
