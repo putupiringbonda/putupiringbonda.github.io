@@ -1901,13 +1901,13 @@ h1,h2,h3,h4,h5,h6 {
 	white-space:nowrap
 }
 
-.nav-menu&gt;
+.nav-menu>
 	li {
 	float:left
 }
 
-.nav-menu li:hover&gt;
-	ul,.nav-menu li.sfHover&gt;
+.nav-menu li:hover>
+	ul,.nav-menu li.sfHover>
 	ul {
 	display:block
 }
@@ -1970,14 +1970,14 @@ h1,h2,h3,h4,h5,h6 {
 	outline:none
 }
 
-.nav-menu li:hover&gt;
-	a,.nav-menu&gt;
-	.menu-active&gt;
+.nav-menu li:hover>
+	a,.nav-menu>
+	.menu-active>
 	a {
 	color:#f42f2c
 }
 
-.nav-menu&gt;
+.nav-menu>
 	li {
 	margin-left:10px
 }
@@ -2002,7 +2002,7 @@ h1,h2,h3,h4,h5,h6 {
 	text-transform:none
 }
 
-.nav-menu ul li:hover&gt;
+.nav-menu ul li:hover>
 	a {
 	color:#f42f2c
 }
